@@ -1,0 +1,42 @@
+.Members {
+  margin: 25px 15px;
+}
+
+.Members-Body {
+  background: #C4C4C4;
+  height: auto;
+  width: auto;
+  margin: 15px;
+  padding: 5px 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.ProfilePic {
+  margin: 30px 15px;
+}
+
+.Members-Detail {
+  height: auto;
+  align-self: center;
+}
+
+.Members-Type {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Members-Name {
+  margin-right: 15px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.Members-Total {
+  margin-right: 5px;
+}
+
+.Members-Summary {
+  display: flex;
+  flex-direction: row;
+}

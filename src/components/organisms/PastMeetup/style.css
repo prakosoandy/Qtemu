@@ -1,0 +1,10 @@
+.PastMeetup {
+  margin: 25px 15px;
+}
+
+.CardGroup {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-between;
+  margin: 15px 15px;
+}

@@ -1,0 +1,28 @@
+.AboutMeetup {
+  margin: 25px 15px;
+}
+
+.AboutMeetup-Body {
+  margin: 15px;
+}
+
+.AboutMeetup-BodyTitle {
+  font-weight: bold;
+}
+
+.AboutMeetup-BodyDate {
+  color: grey;
+}
+
+.space5px {
+  margin-right: 5px;
+}
+
+.make-inline {
+  display: flex;
+  flex-direction: row;
+}
+
+.make-bold {
+  font-weight: bold;
+}

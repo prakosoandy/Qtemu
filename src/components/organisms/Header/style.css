@@ -1,0 +1,12 @@
+.Media {
+  background: #C4C4C4;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  height: 200px;
+  width: auto;
+}
+
+.MediaLogo {
+  margin: 20px;
+}

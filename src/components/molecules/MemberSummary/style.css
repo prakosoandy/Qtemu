@@ -1,0 +1,40 @@
+.Members {
+  margin: 25px 15px;
+}
+
+#Members-Body {
+  background: #C4C4C4;
+  height: auto;
+  width: auto;
+  margin: 15px;
+  padding: 5px 20px;
+}
+
+.Members-ProfilePic {
+  display: block;
+  float: left;
+  margin: 30px 15px;
+}
+
+.Members-Detail {
+  height: auto;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.Members-Type {
+  margin-top: 45px;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Members-Name {
+  margin-left: 15px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.Members-Total {
+  margin-left: 25px;
+}
